@@ -1,0 +1,28 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(85, 67, 9);
+    background-image: url(/images/snake.jpg);
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.texto{
+    border: 1px solid black;
+    background-color: blanchedalmond;
+}
+
+#snake{
+    border: 2px solid rgb(85, 67, 9);
+}
